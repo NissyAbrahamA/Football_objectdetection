@@ -1,1 +1,1 @@
-# medical-diagnosis
+Meidcal diagnosis using machine learning
