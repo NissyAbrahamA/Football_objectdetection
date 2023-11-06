@@ -1,0 +1,6 @@
+path: C:/Users/anizy/OneDrive - Aston University/Documents/Football_Object_Detection
+train: data/train  
+val: data/validation
+
+names:
+  0: football
