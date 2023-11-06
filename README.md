@@ -5,3 +5,6 @@ The system leverages a custom dataset sourced from the Open Images Dataset, prov
 The 'dataset_creation' directory houses essential scripts for dataset curation and organization, ensuring compatibility with YOLOv8 requirements.
 For model training, the 'train.py' script is provided, enabling fine-tuning of the YOLOv8 model on the custom football dataset. 
 Additionally, the 'predict.py' script offers a means to evaluate the model's performance
+
+
+NB- Data has not been added due to large size
